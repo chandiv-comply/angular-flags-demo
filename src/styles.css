@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+/* ../assets/vendor/bootstrap/css/bootstrap.min.css" />
+    <!-- Font Awesome Icon -->
+    <link rel="stylesheet" type="text/css" href="../assets/vendor/font-awesome/css/all.min.css" />
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" type="text/css" href="../assets/vendor/magnific-popup/magnific-popup.min.css" />
+    <!-- Highlight Syntax -->
+    <link rel="stylesheet" type="text/css" href="../assets/vendor/highlight.js/styles/github.css" />
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="../assets/css/stylesheet.css" */
+
+@import "../src/assets/vendor/bootstrap/css/bootstrap.min.css";
+@import "../src/assets/vendor/font-awesome/css/all.min.css";
+@import "../src/assets/vendor/magnific-popup/magnific-popup.min.css";
+@import "../src/assets/vendor/highlight.js/styles/github.css";
+@import "../src/assets/css/stylesheet.css";
